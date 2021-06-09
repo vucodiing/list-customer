@@ -1,0 +1,10 @@
+.add-customer {
+  padding: 10px;
+  background-color: rgb(47, 167, 0);
+  color: white;
+  font-size: 15px;
+
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
